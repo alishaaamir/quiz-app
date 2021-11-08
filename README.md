@@ -55,6 +55,7 @@ Link of admin Login: https://quizzes-app-master.herokuapp.com//adminLogin.html?
 ## Developers
 1. Ashutosh Kabra
 2. Alisha Aamir
+3. Astitva
 
 
 ## Tech Stack Used: 
