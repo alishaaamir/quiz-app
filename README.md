@@ -58,10 +58,9 @@ Link of admin Login: https://quizzes-app-master.herokuapp.com//adminLogin.html?
 
 
 ## Tech Stack Used: 
-1. Frontend -HTML5, CSS3, JavaScript, Ajax and Bootstrap, Bulma.
-2. Backend - Node.js, Express.js (Node.js framework).
-3. Database – NeDB.
-4. For Email verification - two-step-auth.
+1. Frontend -HTML5, CSS3, JavaScript, Ajax and Bootstrap.
+2. Backend - Node.js, Express.js.
+3. For Email verification - two-step-auth.
 
 
 ## Deployment:
